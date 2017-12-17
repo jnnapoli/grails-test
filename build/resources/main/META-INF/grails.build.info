@@ -1,6 +1,6 @@
-#Sat, 16 Dec 2017 23:24:30 -0500
+#Sat, 16 Dec 2017 23:57:40 -0500
 
 info.app.version=0.1
-info.app.name=myapp
+info.app.name=grails-test
 grails.env=development
 info.app.grailsVersion=3.3.2

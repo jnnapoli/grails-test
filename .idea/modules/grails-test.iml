@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id="myapp" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$" external.system.id="GRADLE" external.system.module.group="myapp" external.system.module.version="0.1" type="JAVA_MODULE" version="4">
+<module external.linked.project.id="grails-test" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="myapp" external.system.module.version="0.1" type="JAVA_MODULE" version="4">
   <component name="FacetManager">
     <facet type="Spring" name="Spring">
       <configuration />
     </facet>
-    <facet type="web" name="Web Gradle : myapp-0.1.war">
+    <facet type="web" name="Web Gradle : grails-test-0.1.war">
       <configuration>
         <webroots>
-          <root url="file://C:\Users\jnapo_000\IdeaProjects\myapp\myapp\src\main\webapp" relative="/" />
-          <root url="file://$MODULE_DIR$/build/assets" relative="/assets" />
+          <root url="file://C:\Users\jnapo_000\IdeaProjects\grails-test\src\main\webapp" relative="/" />
+          <root url="file://$MODULE_DIR$/../../build/assets" relative="/assets" />
         </webroots>
         <sourceRoots>
-          <root url="file://$MODULE_DIR$/src/main/resources" />
-          <root url="file://$MODULE_DIR$/src/main/java" />
-          <root url="file://$MODULE_DIR$/grails-app/views" />
-          <root url="file://$MODULE_DIR$/grails-app/domain" />
-          <root url="file://$MODULE_DIR$/src/main/groovy" />
-          <root url="file://$MODULE_DIR$/grails-app/i18n" />
-          <root url="file://$MODULE_DIR$/grails-app/controllers" />
-          <root url="file://$MODULE_DIR$/src/integrationTest/groovy" />
-          <root url="file://$MODULE_DIR$/grails-app/utils" />
-          <root url="file://$MODULE_DIR$/grails-app/conf" />
-          <root url="file://$MODULE_DIR$/grails-app/services" />
-          <root url="file://$MODULE_DIR$/grails-app/taglib" />
-          <root url="file://$MODULE_DIR$/src/integrationTest/resources" />
-          <root url="file://$MODULE_DIR$/src/integrationTest/java" />
-          <root url="file://$MODULE_DIR$/grails-app/init" />
+          <root url="file://$MODULE_DIR$/../../grails-app/views" />
+          <root url="file://$MODULE_DIR$/../../src/integrationTest/groovy" />
+          <root url="file://$MODULE_DIR$/../../grails-app/controllers" />
+          <root url="file://$MODULE_DIR$/../../grails-app/services" />
+          <root url="file://$MODULE_DIR$/../../src/main/groovy" />
+          <root url="file://$MODULE_DIR$/../../src/main/resources" />
+          <root url="file://$MODULE_DIR$/../../grails-app/i18n" />
+          <root url="file://$MODULE_DIR$/../../grails-app/domain" />
+          <root url="file://$MODULE_DIR$/../../src/main/java" />
+          <root url="file://$MODULE_DIR$/../../grails-app/taglib" />
+          <root url="file://$MODULE_DIR$/../../grails-app/init" />
+          <root url="file://$MODULE_DIR$/../../grails-app/conf" />
+          <root url="file://$MODULE_DIR$/../../src/integrationTest/java" />
+          <root url="file://$MODULE_DIR$/../../grails-app/utils" />
+          <root url="file://$MODULE_DIR$/../../src/integrationTest/resources" />
         </sourceRoots>
       </configuration>
     </facet>
   </component>
   <component name="NewModuleRootManager">
-    <output url="file://$MODULE_DIR$/out/production/classes" />
-    <output-test url="file://$MODULE_DIR$/out/test/classes" />
+    <output url="file://$MODULE_DIR$/../../out/production/classes" />
+    <output-test url="file://$MODULE_DIR$/../../out/test/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/grails-app/controllers" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/grails-app/domain" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/grails-app/init" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/grails-app/services" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/grails-app/taglib" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/grails-app/utils" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/integrationTest/groovy" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/integrationTest/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/main/groovy" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/integration-test/groovy" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/test/groovy" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/grails-app/conf" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/grails-app/i18n" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/grails-app/views" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/integrationTest/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/integration-test/resources" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
-      <excludeFolder url="file://$MODULE_DIR$/.gradle" />
-      <excludeFolder url="file://$MODULE_DIR$/build" />
-      <excludeFolder url="file://$MODULE_DIR$/out" />
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../grails-app/controllers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../grails-app/domain" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../grails-app/init" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../grails-app/services" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../grails-app/taglib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../grails-app/utils" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/integrationTest/groovy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/integrationTest/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/groovy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/integration-test/groovy" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/groovy" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../grails-app/conf" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../grails-app/i18n" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../grails-app/views" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/integrationTest/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/integration-test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/resources" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
